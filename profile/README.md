@@ -1,5 +1,5 @@
 # .Яǝvǝrsǝ Studio
-> 블랙서바이벌
+> 프로젝트 S
 
 ## TODO
 1. Can Win
