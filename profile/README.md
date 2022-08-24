@@ -1,5 +1,5 @@
 # .Яǝvǝrsǝ Studio
-> 리듬게임
+> 블랙서바이벌
 
 ## TODO
-1. GG
+1. Can Win
